@@ -1,1 +1,3 @@
-  print("Hello World")
+greetUser <- function(username) {
+  print(paste0("Hello World, ", username))
+}
